@@ -1,10 +1,10 @@
-###GuessthatFlag
+### GuessthatFlag
 - Entertainment of flag guessing website.
 - Users will get a score of guessing the flag.
 - The flag questionaire will be based on free API, [rest countries](http://restcountries.eu "rest countries")
 - Website will provide streak score and overall score with scoreboard
 
-###GuessthatFlag task list
+### GuessthatFlag task list
 
 - [ ] overall game flow
 - [ ] Tech Stack
@@ -24,7 +24,7 @@
 
 `npm` `express` `photoshop` `illustrator` `nodeJS` `axios` `ejs` `sequelize` `postgres`
                     
-###MVP Goal
+### MVP Goal
                     
 Goals  | Expected Date
 ------------- | -------------
@@ -36,7 +36,7 @@ Database implement | 01/25/12
 CSS and Design elements | 01/27/12
 Fixbug & Final Delivery | 01/28/12
 
-###Stretch Goals
+### Stretch Goals
 - Creat a map that show where the answered country is located
 - Medal given when user reached a certain score
 
